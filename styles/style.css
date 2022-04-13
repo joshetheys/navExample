@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline-flex;
+    bottom: 250px;
+    position: relative; left: 350px; top: -100px;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 3px;
+}
+image{
+    width: 50px;
+    height: 50px;
+}
+header,
+footer {
+    min-width: 100%;
+    height: 194px;
+    background-color: burlywood;
+}
+main {
+    min-width: 100%;
+}
+a {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:visited {
+    color: rgb(83, 71, 49);
+}
+label {
+    display: inline-block;
+    width: 68px;
+    text-align: left;
+}
+
+
+
